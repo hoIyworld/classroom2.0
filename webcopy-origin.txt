@@ -1,0 +1,12 @@
+Uri: https://accounts.google.com/v3/signin/identifier?continue=https:%2F%2Fclassroom.google.com%2Fh%3Fpli%3D1&emr=1&followup=https:%2F%2Fclassroom.google.com%2Fh%3Fpli%3D1&ifkv=ATuJsjy8jQ8-_r-dOuLkkV3waCGmvuCW4bV1wcHi9a0onYKs3uTM7Xz_dFcaBw3Tb0b90wySbIAxbA&passive=1209600&service=classroom&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1913243867:1709575279376922
+File Name: C:\Downloaded Web Sites\accounts.google.com\v3\signin\identifier.html
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eL.ttf
+File Name: C:\Downloaded Web Sites\accounts.google.com\s\productsans\v9\pxiDypQkot1TnFhsFMOfGShVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://ssl.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_74x24dp.png
+File Name: C:\Downloaded Web Sites\accounts.google.com\images\branding\googlelogo\2x\googlelogo_color_74x24dp.png
+Content Type: image/png
+
